@@ -8,5 +8,6 @@ jobs:
       - checkout
       - run: npm install
  
-      - run: npm helloo.js
+      - run: npm helloo
       - run: node myfirst.js
+circle
